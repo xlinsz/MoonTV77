@@ -1,8 +1,4 @@
 {
-  "scripts": {
-    "build": "vite build",
-    "pages:build": "pnpm build" 
-  },
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
